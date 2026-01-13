@@ -98,7 +98,6 @@ III. Key Players
 
 ### Final Article (Excerpt)
 
-```markdown
 # Artificial Intelligence In Cyber Security
 
 ## Introduction
@@ -106,7 +105,6 @@ Artificial Intelligence (AI) in Cyber Security refers to the use of advanced tec
 
 ## Latest Trends
 Machine learning algorithms are increasingly used for threat detection, allowing organizations to identify anomalies and respond faster to attacks.
-```
 
 ---
 
