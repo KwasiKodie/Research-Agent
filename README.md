@@ -1,4 +1,3 @@
-````markdown
 # Research Agent (CrewAI + OpenAI)
 
 ## Overview
@@ -27,8 +26,6 @@ Each role is implemented as a CrewAI `Agent`, coordinated through sequential `Ta
 
 ## LLM Provider
 - **OpenAI** (configured via environment variables)
-
----
 
 ## Installation
 
